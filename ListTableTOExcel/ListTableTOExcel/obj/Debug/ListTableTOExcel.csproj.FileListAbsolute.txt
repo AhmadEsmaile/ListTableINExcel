@@ -1,0 +1,12 @@
+C:\_AppPro\ListTable\ListTableTOExcel\ListTableTOExcel\obj\Debug\ListTableTOExcel.csproj.AssemblyReference.cache
+C:\_AppPro\ListTable\ListTableTOExcel\ListTableTOExcel\obj\Debug\ListTableTOExcel.csproj.CoreCompileInputs.cache
+C:\_AppPro\ListTable\ListTableTOExcel\ListTableTOExcel\bin\Debug\ListTableTOExcel.exe.config
+C:\_AppPro\ListTable\ListTableTOExcel\ListTableTOExcel\bin\Debug\ListTableTOExcel.exe
+C:\_AppPro\ListTable\ListTableTOExcel\ListTableTOExcel\bin\Debug\ListTableTOExcel.pdb
+C:\_AppPro\ListTable\ListTableTOExcel\ListTableTOExcel\obj\Debug\ListTableTOExcel.exe
+C:\_AppPro\ListTable\ListTableTOExcel\ListTableTOExcel\obj\Debug\ListTableTOExcel.pdb
+C:\_AppPro\ListTable\ListTableTOExcel\ListTableTOExcel\bin\Debug\EPPlus.dll
+C:\_AppPro\ListTable\ListTableTOExcel\ListTableTOExcel\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+C:\_AppPro\ListTable\ListTableTOExcel\ListTableTOExcel\bin\Debug\EPPlus.xml
+C:\_AppPro\ListTable\ListTableTOExcel\ListTableTOExcel\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+C:\_AppPro\ListTable\ListTableTOExcel\ListTableTOExcel\obj\Debug\ListTableTOExcel.csproj.CopyComplete
